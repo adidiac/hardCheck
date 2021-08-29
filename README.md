@@ -22,3 +22,5 @@ print(isOverUsage) #will print true or false
 print(message) #will print "It's using more than 50%" or "It's using less than 50%"
 ```
 ### For now verifies just the cpu and disk and also uses psutil and shutil
+
+## Also included a test workflow for the two modules
